@@ -6,7 +6,7 @@ import { MdDateRange } from "react-icons/md"
 function HeaderContent() {
     return(
         <div className='h-auto my-20 mx-10 sm:mx-20 lg:mx-40 xl:mx-80'>
-            <h1 className='text-4xl sm:text-4xl xl:text-5xl text-start text-white font-bold'>Web Applications: The Process Behind Them</h1>
+            <h1 className='text-4xl sm:text-4xl xl:text-5xl text-start text-white font-bold'>Web Applications: The Processes Behind Them</h1>
             <div className='flex justify-between'>
                 <div className='flex-row m-2'>
                     <div className='flex items-center gap-1'>
